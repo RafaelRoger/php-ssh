@@ -1,0 +1,20 @@
+{
+    "name": "rafaelroger/php-ssh",
+    "description": "Simples gerenciador de ssh em php",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Rafael Munguambe",
+            "email": "munguamberafael36@gmail.com"
+        }
+    ], 
+    "autoload": {
+        "psr-4": {
+            "RafaelMunguambe\\SecureShell\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
