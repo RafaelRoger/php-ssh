@@ -6,7 +6,7 @@ Simples gerenciador de conexões SSH em PHP utilizando a lib SSH2
 
 Para instalar esta dependência basta executar o comando abaixo:
 ```shell
-composer require william-costa/php-ssh
+composer require RafaelRoger/php-ssh
 ```
 
 ## Utilização
